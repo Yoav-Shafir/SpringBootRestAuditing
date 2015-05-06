@@ -1,0 +1,7 @@
+com/dev/springbootauditing/repositories/CommentRepository.class
+com/dev/springbootauditing/repositories/PersonRepository.class
+com/dev/springbootauditing/SpringBootAuditingApplication.class
+com/dev/springbootauditing/entities/Person.class
+com/dev/springbootauditing/repositories/AddressRepository.class
+com/dev/springbootauditing/entities/Address.class
+com/dev/springbootauditing/entities/Comment.class

@@ -1,0 +1,7 @@
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/repositories/PersonRepository.java
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/SpringBootAuditingApplication.java
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/entities/Comment.java
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/entities/Address.java
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/entities/Person.java
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/repositories/AddressRepository.java
+/home/eryoav/dev/workspace_sts_java8/workspace/SpringBootAuditing/src/main/java/com/dev/springbootauditing/repositories/CommentRepository.java
